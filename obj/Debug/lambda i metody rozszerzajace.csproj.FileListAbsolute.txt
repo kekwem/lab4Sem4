@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\bin\Debug\lambda i metody rozszerzajace.exe.config
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\bin\Debug\lambda i metody rozszerzajace.exe
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\bin\Debug\lambda i metody rozszerzajace.pdb
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\obj\Debug\lambda i metody rozszerzajace.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\obj\Debug\lambda_i_metody_rozszerzajace.Form1.resources
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\obj\Debug\lambda_i_metody_rozszerzajace.Properties.Resources.resources
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\obj\Debug\lambda i metody rozszerzajace.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\obj\Debug\lambda i metody rozszerzajace.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\obj\Debug\lambda i metody rozszerzajace.exe
+C:\Users\Dimon\source\repos\lambda i metody rozszerzajace\obj\Debug\lambda i metody rozszerzajace.pdb
