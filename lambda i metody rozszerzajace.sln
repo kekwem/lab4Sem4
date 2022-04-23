@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda i metody rozszerzajace", "lambda i metody rozszerzajace.csproj", "{52C0FEB8-48C5-4430-BB11-46C607AA8846}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda i metody rozszerzajace", "lambda i metody rozszerzajace.csproj", "{74C22942-13AC-43B1-AFD8-BCD032C44914}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{52C0FEB8-48C5-4430-BB11-46C607AA8846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52C0FEB8-48C5-4430-BB11-46C607AA8846}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52C0FEB8-48C5-4430-BB11-46C607AA8846}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52C0FEB8-48C5-4430-BB11-46C607AA8846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C22942-13AC-43B1-AFD8-BCD032C44914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C22942-13AC-43B1-AFD8-BCD032C44914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C22942-13AC-43B1-AFD8-BCD032C44914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C22942-13AC-43B1-AFD8-BCD032C44914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {05DED4C0-21E1-4597-9759-673780834881}
+		SolutionGuid = {B1C39413-F99B-407F-A8A7-FE92CEDED53D}
 	EndGlobalSection
 EndGlobal

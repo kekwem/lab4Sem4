@@ -73,5 +73,46 @@ namespace lambda_i_metody_rozszerzajace
             }
             return false;
         }
+
+        public static string najwiec(this IEnumerable<string> source)
+        {
+            Dictionary<string, int> dictionary = new Dictionary<string, int>();
+            foreach (var element in source)
+            {
+
+                try
+                {
+                    dictionary.Add(element, 1);
+                }
+                catch (Exception e)
+                {
+                    dictionary[element]++;
+                }
+
+            }
+            int indeks_max = 0;
+            string max = "";
+            foreach (var element in dictionary)
+            {
+                if (element.Value > indeks_max)
+                {
+                    indeks_max = element.Value;
+                    max = element.Key;
+                }
+            }
+            int ile = 0;
+            foreach (var element in dictionary)
+            {
+                if (indeks_max == element.Value)
+                {
+                    ile++;
+                }
+            }
+            if (ile > 1)
+            {
+                return null;
+            }
+            return max;
+        }
     }
 }
